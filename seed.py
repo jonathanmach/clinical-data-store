@@ -15,6 +15,7 @@ _FHIR_URLS: dict[VocabularySystem, str] = {
     VocabularySystem.ICD11: "http://id.who.int/icd/release/11/mms",
     VocabularySystem.UCUM: "http://unitsofmeasure.org",
     VocabularySystem.LOCAL: "urn:local",
+    VocabularySystem.V3_ACT_CODE: "http://terminology.hl7.org/CodeSystem/v3-ActCode",
 }
 
 
